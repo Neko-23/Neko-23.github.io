@@ -3,6 +3,7 @@
 Crime in US by state and city
 ## Datasets
 https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home (crime rates in US)
+https://data.census.gov/all?t=Income+(Households,+Families,+Individuals)&g=010XX00US$0400000&d=ACS+1-Year+Estimates+Detailed+Tables (demographics such as income)
 
 Find correlation between crime and...
 1. demographics https://data.census.gov/
